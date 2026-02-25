@@ -1,15 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=12&text=Hi,%20I'm%20BlueNyang&reversal=true&fontColor=a0b0f0&desc=Dept.%20Computer%20SW%20Engineering&fontAlignY=50&descAlignY=65&fontSize=60)
 
-**I'm a software sorcerer in training from South Korea** <sub>**KR**</sub>
+**I'm a Newly-Minted Software Sorcerer from South Korea** <sub>**KR**</sub>
 
 - About Me
-
-  - 🎓 I'm majoring in Computer Software Engineering at Wonkwang Univ.
-  - 💻 I'm interested in Go
-  - 📍 I prefer statically typed languages
-  - 🚀 I love C++ and TypeScript
-  - 🐘 I prefer PostgreSQL
-  - 📀 I prefer EL/Fedora-Family as OS
+  - 🎓 B.S. in Computer Software Engineering, Wonkwang Univ.
+  - 💻 Casting spells with Kotlin, Go, and TypeScript
+  - 📍 Strong advocate for statically typed languages
+  - 🛠️ Building web experiences with Vue.js, Svelte, and NestJS
+  - 🐘 Trusting my data with PostgreSQL
+  - 🐧 Homelabbing and server tinkering on the EL/Fedora ecosystem
 
 <div>
 <p align="center">
@@ -28,7 +27,7 @@
   I have experience with
 </p>
 <p align="center">
-  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,c,cpp,java,js,ts,nodejs,react,astro,vue,tailwind,postgres,redhat,supabase,netlify,docker,notion&perline=6" />
+  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,docker,cloudflare,traefikproxy,none,none,cpp,cs,java,js,ts,kotlin,go,dotnet,nodejs,react,svelte,astro,vuejs,tailwindcss,postgresql,oracledb,redhat,rocky,fedora&perline=7" />
 </p>
 
 <br />

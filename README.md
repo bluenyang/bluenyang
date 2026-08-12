@@ -15,8 +15,8 @@
   <a target="_blank" align="center" href="https://www.bluenyang.kr/">
     <img src="https://img.shields.io/badge/Homepage-29355a?style=for-the-badge&logo=netlify&logoColor=00c7b7" />
   </a>
-  <a target="_blank" align="center" href="https://bluenyang-dev.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory(Blog)-29355a?style=for-the-badge&logo=Tistory&logoColor=ff5949" />
+  <a target="_blank" align="center" href="https://blog.bluenyang.kr/">
+    <img src="https://img.shields.io/badge/Blog-29355a?style=for-the-badge&logo=ko-fi&logoColor=17B2E7" />
   </a>
 </p>
 </div>
@@ -27,7 +27,7 @@
   I have experience with
 </p>
 <p align="center">
-  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,docker,cloudflare,traefikproxy,none,none,cpp,cs,java,js,ts,kotlin,go,dotnet,nodejs,react,svelte,astro,vuejs,tailwindcss,postgresql,oracledb,redhat,rocky,fedora&perline=7" />
+  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,githubactions,docker,cloudflare,traefikproxy,none,none,cpp,java,js,ts,kotlin,go,markdown,none,nodejs,springboot,nuxt,vuejs,electron,react,svelte,tailwindcss,postgresql,oracledb,redhat,rocky,fedora,aws&perline=8" />
 </p>
 
 <br />

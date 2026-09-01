@@ -27,7 +27,7 @@
   I have experience with
 </p>
 <p align="center">
-  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,githubactions,docker,cloudflare,traefikproxy,none,none,cpp,java,js,ts,kotlin,go,markdown,none,nodejs,springboot,nuxt,vuejs,electron,react,svelte,tailwindcss,postgresql,oracledb,redhat,rocky,fedora,aws&perline=8" />
+  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,githubactions,docker,cloudflare,traefikproxy,java,ts,kotlin,go,markdown,nodejs,springboot,nuxt,vue,electron,tailwindcss,none,postgresql,oracledb,redhat,rocky,aws&perline=6" />
 </p>
 
 <br />

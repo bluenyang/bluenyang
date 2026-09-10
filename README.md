@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=12&text=Hi,%20I'm%20BlueNyang&reversal=true&fontColor=a0b0f0&desc=Dept.%20Computer%20SW%20Engineering&fontAlignY=50&descAlignY=65&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=12&text=Hi,%20I'm%20BlueNyang&reversal=true&fontColor=a0b0f0&desc=AX%20Solution%20Engineer&fontAlignY=50&descAlignY=65&fontSize=60)
 
-**I'm a Newly-Minted Software Sorcerer from South Korea** <sub>**KR**</sub>
+**I'm a Newly-Minted AX Software Sorcerer from South Korea** <sub>**KR**</sub>
 
 - About Me
+  - 💼 **AX Solution Engineer / Associate Researcher** at [**Insight Nova**](https://insightnova.kr)([@insightnova](https://github.com/insightnova))
   - 🎓 B.S. in Computer Software Engineering, Wonkwang Univ.
   - 💻 Casting spells with Kotlin, Go, and TypeScript
   - 📍 Strong advocate for statically typed languages
@@ -27,7 +28,7 @@
   I have experience with
 </p>
 <p align="center">
-  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,githubactions,docker,cloudflare,traefikproxy,java,ts,kotlin,go,markdown,nodejs,springboot,nuxt,vue,electron,tailwindcss,none,postgresql,oracledb,redhat,rocky,aws&perline=6" />
+  <img src="https://custom-skill-icons.netlify.app/icons?i=git,github,githubactions,docker,cloudflare,traefikproxy,java,ts,kotlin,go,markdown,nodejs,springboot,react,nuxt,vue,electron,tailwindcss,postgresql,oracledb,redhat,rocky,aws&perline=6" />
 </p>
 
 <br />

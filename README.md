@@ -7,7 +7,8 @@
   - 🎓 B.S. in Computer Software Engineering, Wonkwang Univ.
   - 💻 Casting spells with Kotlin, Go, and TypeScript
   - 📍 Strong advocate for statically typed languages
-  - 🛠️ Building web experiences with Vue.js, Svelte, and NestJS
+  - 🛠️ Building web experiences with Vue.js, NestJS, and Spring
+  - 💽 Building SW experience with Electron, Go, Kotlin
   - 🐘 Trusting my data with PostgreSQL
   - 🐧 Homelabbing and server tinkering on the EL/Fedora ecosystem
 

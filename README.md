@@ -3,7 +3,7 @@
 **I'm a Newly-Minted AX Software Sorcerer from South Korea** <sub>**KR**</sub>
 
 - About Me
-  - 💼 **AX Solution Engineer / Associate Researcher** at [**Insight Nova**](https://insightnova.kr)([@insightnova](https://github.com/insightnova))
+  - 💼 **AX Solution Engineer / Associate Researcher** at [**Insightnova**](https://insightnova.kr)([@insightnova](https://github.com/insightnova))
   - 🎓 B.S. in Computer Software Engineering, Wonkwang Univ.
   - 💻 Casting spells with Kotlin, Go, and TypeScript
   - 📍 Strong advocate for statically typed languages
